@@ -131,7 +131,7 @@
 /******/ 	
 /******/ 	/* webpack/runtime/getFullHash */
 /******/ 	!function() {
-/******/ 		__webpack_require__.h = function() { return "415da4d02a37f85f"; }
+/******/ 		__webpack_require__.h = function() { return "6c34f3279c078693"; }
 /******/ 	}();
 /******/ 	
 /******/ 	/* webpack/runtime/global */
@@ -618,7 +618,7 @@
 /******/ 	
 /******/ 	/* webpack/runtime/publicPath */
 /******/ 	!function() {
-/******/ 		__webpack_require__.p = "/nextjs-pages/_next/";
+/******/ 		__webpack_require__.p = "/ferdous-mahmud.me/_next/";
 /******/ 	}();
 /******/ 	
 /******/ 	/* webpack/runtime/react refresh */

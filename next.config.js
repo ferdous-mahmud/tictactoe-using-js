@@ -5,6 +5,6 @@ module.exports = {
     path: "",
     domains: ['i.ibb.co'],
   },
-  basePath: "/nextjs-pages",
-  assetPrefix: "/nextjs-pages",
+  basePath: "/ferdous-mahmud.me",
+  assetPrefix: "/ferdous-mahmud.me",
 }
