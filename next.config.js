@@ -5,6 +5,6 @@ module.exports = {
     path: "",
     domains: ['i.ibb.co'],
   },
-  basePath: "/ferdous-mahmud.github.io",
-  assetPrefix: "/ferdous-mahmud.github.io",
+  // basePath: "/ferdous-mahmud.github.io",
+  // assetPrefix: "/ferdous-mahmud.github.io",
 }
