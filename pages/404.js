@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import Layout from "../sections/Layout";
 
@@ -7,7 +8,7 @@ const NotFound = () => (
     }}>
         <div className="text-center py-28 px-4 lg:py-20 pb-32 flex flex-col items-center justify-center">
         <div className="grid place-content-center">
-        <img src="https://i.ibb.co/ncJJqTq/undraw-page-not-found-su7k-2-1-1-1.png" alt="404 animation" />
+        <Image src="https://i.ibb.co/ncJJqTq/undraw-page-not-found-su7k-2-1-1-1.png" width="418" height="178" alt="404 animation" />
         </div>
         <h1 className="lg:text-5xl md:text-4xl text-2xl font-bold text-gray-800 py-4 md:py-8">Not Found</h1>
         <p className="text-lg text-gray-600 py-2">
