@@ -24,10 +24,10 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: ${{ matrix.node-version }}
-          cache: "npm"
-      - run: npm ci
-      - run: npm run build
-      - run: npm run export
+          cache: "pnpm"
+      - run: pnpm ci
+      - run: pnpm run build
+      - run: pnpm run export
       - run: touch ./out/.nojekyll
 
       - name: Deploy 🚀

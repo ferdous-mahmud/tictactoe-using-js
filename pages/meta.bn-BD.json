@@ -1,0 +1,22 @@
+{
+  "index": {
+    "title": "সূচক",
+    "type": "page",
+    "hidden": true
+  },
+  "docs": {
+    "title": "ডক্স",
+    "type": "page"
+  },
+  "examples": {
+    "title": "উদাহরণ",
+    "type": "page"
+  },
+  "blog": {
+    "title": "ব্লগ",
+    "type": "page",
+    "theme": {
+      "sidebar": false
+    }
+  }
+}
